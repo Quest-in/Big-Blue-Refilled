@@ -9,6 +9,7 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 
 ## Dependancies
 - Module Manager
+- B9PartSwitch
 - Animated Decouplers
 - Resurfaced
 - KSPCommunityPartModules
@@ -20,7 +21,7 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 - Trajectories
 - MechJeb2
 - KJR (Kerbal Joint Reinforcement)
-- 
+  
 ## Changelog + Planned Releases
 v1.0.0: New Glenn 7x2, BE4, BE3U
 v1.1.0: New Glenn 9x4 
