@@ -14,6 +14,7 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 - Resurfaced
 - KSPCommunityPartModules
 - KSPCommunityFixes
+- CommunityResourcePack
 - Waterfall
 
 ## Recommended Mods
