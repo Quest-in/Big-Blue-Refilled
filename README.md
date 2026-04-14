@@ -18,6 +18,7 @@ RO Note: Compatiable with FAR!
 - KSPCommunityFixes
 - Community Resource Pack
 - Waterfall
+- Simple Adjustable Farings
 
 ## Recommended Mods
 - Trajectories
