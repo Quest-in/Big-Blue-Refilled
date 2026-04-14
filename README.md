@@ -26,8 +26,11 @@ RO Note: Compatiable with FAR!
   
 ## Changelog + Planned Releases
 v1.0.0: New Glenn 7x2, BE4, BE3U
+
 v1.1.0: New Glenn 9x4 
+
 v1.2.0: Old Glenn 7x2 + Addon 3rd Stage
+
 v1.3.0: New Shepard and Blue Moon MK1
 
 ## Credits
