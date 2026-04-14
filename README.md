@@ -35,11 +35,14 @@ v1.3.0: New Shepard and Blue Moon MK1
 
 ## Credits
 Main Models and Textures: Questin
-Plumes: Andrew (HELLOWORLDS)
-Decal Sheet: Noedel
-RO Config-in: Ty
-Helping Hands: Kari, Ty, and RAF Protogen
 
+Plumes: Andrew (HELLOWORLDS)
+
+Decal Sheet: Noedel
+
+RO Config-in: Ty
+
+Helping Hands: Kari, Ty, and RAF Protogen
 
 ## License
 
