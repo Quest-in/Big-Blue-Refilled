@@ -35,6 +35,8 @@ Decal Sheet: Noedel
 RO Config-in: Ty
 Helping Hands: Kari, Ty, and RAF Protogen
 
+Cluster Module Lent by Kari <3
+
 
 ## License
 
