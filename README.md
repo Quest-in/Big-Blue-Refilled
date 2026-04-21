@@ -19,6 +19,7 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 - KSPCommunityFixes
 - CommunityResourcePack
 - Waterfall
+- Simple Adjustable Fairings
 
 ## Recommended Mods
 - Trajectories
