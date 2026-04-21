@@ -39,10 +39,14 @@ v1.3.0: New Shepard and Blue Moon MK1
 
 ## Credits
 Main Models and Textures: Questin
+
 Plumes: Andrew (HELLOWORLDS)
+
 Decal Sheet: Noedel
+
 RO Config-in: Ty
-Helping Hands: Kari, Ty, and RAF Protogen
+
+Helping Hands: Kari, Ty, and RAF Protogen, Sanchez (Sancheese, the one who request 800 Million part switches)
 
 Cluster Module Lent by Kari <3
 
