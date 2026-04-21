@@ -38,11 +38,16 @@ v1.2.0: Old Glenn 7x2
 v1.3.0: New Shepard and Blue Moon MK1
 
 ## Credits
+
 Main Models and Textures: Questin
+
 Plumes: Andrew (HELLOWORLDS)
+
 Decal Sheet: Noedel
+
 RO Config-in: Ty
-Helping Hands: Kari, Ty, and RAF Protogen
+
+Helping Hands: Kari, Ty, and RAF Protogen, and Sanchez (Sancheese)
 
 Cluster Module Lent by Kari <3
 
