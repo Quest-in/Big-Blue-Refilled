@@ -21,6 +21,9 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 - Trajectories
 - MechJeb2
 - KJR (Kerbal Joint Reinforcement)
+- SEP (Home of the Cluster Module and from the person we love Kari <3)
+- Gravity Issue
+- F3's GSE
   
 ## Changelog + Planned Releases
 v1.0.0: New Glenn 7x2, BE4, BE3U, BE7, GS3
