@@ -1,6 +1,7 @@
 # Big-Blue-Refilled
 The True Continuation of Big Blue by yours truly. With the Enlisted help of Ty (Tyb_NC), Noedel, Raf Protogen, and Andrew.
-A full revamp of the old Glenn, updated to fit my modern standards and the lessons I have learned in that rough year since the original, and my own take one very specific part ;3
+A full revamp of the old Glenn, updated to fit my modern standards and the lessons I have learned in that rough year since the original, 
+-# and my own take one very specific part ;3 (PLEASE DO NOT CEASE AND DESIT ME BLUE ORIGIN PLEASE).
 *True Support, Actual Aero, Actual Balancing, Optimization, My Own Engines, Sounds, Textures, RO/SOL/Quarter Scale Support from the Start.* **Everything Improved**, and actually worthy of the time and effort.
 
 ## Roadmap: https://trello.com/b/30Nx85Lb/big-blue-refilled
