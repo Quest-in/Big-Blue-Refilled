@@ -2,7 +2,7 @@
 The True Continuation of Big Blue by yours truly. With the Enlisted help of Ty (Tyb_NC), Noedel, Raf Protogen, and Andrew.
 A full revamp of the old Glenn, updated to fit my modern standards and the lessons I have learned in that rough year since the original.
  
- And my own simpler, rougher, take one very specific part ;3 (PLEASE DO NOT CEASE AND DESIT ME BLUE ORIGIN PLEASE).
+ And my own simpler, rougher, take one very specific part ;3 (PLEASE DO NOT CEASE AND DESIST ME BLUE ORIGIN PLEASE).
  
 *True Support, Actual Aero, Actual Balancing, Optimization, My Own Engines, Sounds, Textures, RO/SOL/Quarter Scale Support from the Start.* **Everything Improved**, and actually worthy of the time and effort.
 
