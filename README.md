@@ -2,7 +2,7 @@
 The True Continuation of Big Blue by yours truly. With the Enlisted help of Ty (Tyb_NC), Noedel, Raf Protogen, and Andrew.
 A full revamp of the old Glenn, updated to fit my modern standards and the lessons I have learned in that rough year since the original.
  
- And my own simpler, rougher, take one very specific part ;3 (PLEASE DO NOT CEASE AND DESIST ME BLUE ORIGIN PLEASE).
+ And my own simpler, rougher, take on one very specific part ;3 (PLEASE DO NOT CEASE AND DESIST ME BLUE ORIGIN PLEASE).
  
 *True Support, Actual Aero, Actual Balancing, Optimization, My Own Engines, Sounds, Textures, RO/SOL/Quarter Scale Support from the Start.* **Everything Improved**, and actually worthy of the time and effort.
 
@@ -46,7 +46,7 @@ Decal Sheet: Noedel
 
 RO Config-in: Ty
 
-Helping Hands: Kari, Ty, and RAF Protogen, Sanchez (Sancheese, the one who request 800 Million part switches)
+Helping Hands: Kari, Ty, and RAF Protogen, Sanchez (Sancheese, the one who requested 800 Million part switches)
 
 Cluster Module Lent by Kari <3
 
@@ -55,7 +55,7 @@ Cluster Module Lent by Kari <3
 
 Below listed are regulations specific to Big Blue Refilled (BBR):
 
-All Models and textures (.mu, .png) are STRICTLY distributed under All Rights Reserved
+All Models and textures (.mu, .png) are STRICTLY distributed under All Rights Reserved.
 
 You may NOT redistribute any of these assets under any condition.
 
@@ -63,7 +63,7 @@ You may MODIFY assets for your OWN preference; you may not redistribute, Refer t
 
 You may NOT use property of any texture or model in your own project. e.g Copying and pasting exact verticies or models within the MU into your own project.
 
-If you violate any of these said rights, it MAY or MAY NOT resolve in legal action and/or a permanent ban from Flip N' Burn and other supporting mod developers
+If you violate any of these said rights, it MAY or MAY NOT resolve in legal action and/or a permanent ban from Flip N' Burn and other supporting mod developers.
 
-Let all assets that were strictly transferred to Big Big Refilled receive license rights from their respective owners
+Let all assets that were strictly transferred to Big Big Refilled receive license rights from their respective owners.
 
