@@ -63,7 +63,7 @@ You may MODIFY assets for your OWN preference; you may not redistribute, Refer t
 
 You may NOT use property of any texture or model in your own project. e.g Copying and pasting exact verticies or models within the MU into your own project.
 
-If you violate any of these said rights, it MAY or MAY NOT resolve in legal action and/or a permanent ban from Flip N' Burn and other supporting mod developers.
+If you violate any of these said rights, it MAY or MAY NOT resolve in legal action and/or a permanent ban from Flip N' Burn Server and other supporting mod developers.
 
 Let all assets that were strictly transferred to Big Big Refilled receive license rights from their respective owners.
 
