@@ -32,11 +32,11 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 ## Changelog + Planned Releases
 v1.0.0: New Glenn 7x2, BE4, BE3U, BE7, GS3
 
-v1.1.0: New Glenn 9x4 
+v1.1.0: Blue Moon MK1
 
 v1.2.0: Old Glenn 7x2
 
-v1.3.0: New Shepard and Blue Moon MK1
+v1.3.0: New Shepard and New Glenn 9x4
 
 ## Credits
 
