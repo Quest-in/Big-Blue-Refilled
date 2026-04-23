@@ -30,9 +30,9 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 - F3's GSE
   
 ## Changelog + Planned Releases
-v1.0.0: New Glenn 7x2, BE4, BE3U, BE7, GS3
+v1.0.0: New Glenn 7x2, BE4, BE3U
 
-v1.1.0: Blue Moon MK1
+v1.1.0: Blue Moon MK1, BE7, GS3
 
 v1.2.0: Old Glenn 7x2
 
