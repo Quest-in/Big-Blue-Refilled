@@ -66,4 +66,3 @@ You may NOT use property of any texture or model in your own project. e.g Copyin
 If you violate any of these said rights, it MAY or MAY NOT resolve in legal action and/or a permanent ban from Flip N' Burn Server and other supporting mod developers.
 
 Let all assets that were strictly transferred to Big Big Refilled receive license rights from their respective owners.
-
