@@ -7,6 +7,8 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 # Notes
 RO configs may be slightly unbalanced, I haven't tested them that extensivly, but gs2 *should* be able to do TLI with a correctish amount of payload. Also, RSS/Non RO isn't done, the current configs are just there to contribute to the RO configs
 
+-# Yes, the all of the Original Big Blue has been wiped, no CKAN, No SpaceDock, No Git. I've finally wiped away the pain and suffering it had caused me
+
 ## Roadmap: https://trello.com/b/30Nx85Lb/big-blue-refilled
 
 ## Discord Server: https://discord.gg/JfuYbWAxxB
