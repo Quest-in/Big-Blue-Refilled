@@ -31,7 +31,7 @@ RO configs may be slightly unbalanced, I haven't tested them that extensivly, bu
 - F3's GSE
   
 ## Changelog + Planned Releases
-v1.0.0: New Glenn 7x2, BE4, BE3U
+v1.0.0: New Glenn 7x2, BE4, BE3U, RS2, Cluster
 
 v1.1.0: Blue Moon MK1, BE7, GS3
 
