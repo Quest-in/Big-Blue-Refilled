@@ -17,4 +17,4 @@ jobs:
     with:
       solution-file-path: 'Source/BigBlueRefilled.sln'
       use-ckan: true
-      artifacts: BigBlueRefilled LICENSE* README* CHANGELOG* Extras
+      artifacts: GameData LICENSE* README* CHANGELOG* Extras

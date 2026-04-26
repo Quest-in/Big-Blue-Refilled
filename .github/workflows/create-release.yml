@@ -14,4 +14,4 @@ jobs:
       solution-file-path: 'Source/BigBlueRefilled.sln'
       use-ckan: true
       version-string: ${{ inputs.version-string }}
-      artifacts: BigBlueRefilled LICENSE* README* CHANGELOG* Extras
+      artifacts: GameData LICENSE* README* CHANGELOG* Extras
