@@ -9,7 +9,7 @@ on:
 
 jobs:
   internal-create-release:
-    uses: KSPModdingLibs/KSPBuildTools/.github/workflows/create-release.yml@0.0.4
+    uses: KSPModdingLibs/KSPBuildTools/.github/workflows/create-release.yml@1.1.1
     with:
       solution-file-path: 'Source/BigBlueRefilled.sln'
       use-ckan: true
