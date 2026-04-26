@@ -9,6 +9,8 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 
 - Yes, the all of the Original Big Blue has been wiped, no CKAN, No SpaceDock, No Git. I've finally wiped away the pain and suffering it had caused me
 
+- Do not EVER download the repository, you'll be missing the plugin and the mod won't work properly, keep on the releases tab unless you know what you're doing (if you need to ask you do not)
+
 ## Roadmap: https://trello.com/b/30Nx85Lb/big-blue-refilled
 
 ## Discord Server: https://discord.gg/JfuYbWAxxB
