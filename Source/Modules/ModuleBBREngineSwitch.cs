@@ -78,7 +78,7 @@ namespace BigBlueRefilled.Modules
 		[KSPAction(guiName = "Next Engine Mode")]
 		public void NextEngineModeAction(KSPActionParam param) => SetNextEngine();
 
-		[KSPAction(guiName = "Previous Engine Modee")]
+		[KSPAction(guiName = "Previous Engine Mode")]
 		public void PreviousEngineModeAction(KSPActionParam param) => SetPreviousEngine();
 
 		[KSPAction(guiName = "#autoLOC_6005052")]
