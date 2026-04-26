@@ -1,1 +1,6 @@
+Source/.vs/
+Source/bin/
+Source/obj/
+Source/packages/
+Source/*.user
 /BigBlueRefilled/Parts/@thumbs
