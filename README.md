@@ -13,6 +13,8 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 
 ## Discord Server: https://discord.gg/JfuYbWAxxB
 
+## Better RCS is incompatible for the time being
+
 ## Dependancies
 - Module Manager
 - B9PartSwitch
