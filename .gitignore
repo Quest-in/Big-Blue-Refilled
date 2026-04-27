@@ -3,5 +3,5 @@ Source/bin/
 Source/obj/
 Source/packages/
 Source/*.user
-/BigBlueRefilled/Parts/@thumbs
-/BigBlueRefilled/Plugins
+Gamedata/BigBlueRefilled/Parts/@thumbs
+Gamedata/BigBlueRefilled/Plugins
