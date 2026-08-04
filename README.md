@@ -36,14 +36,47 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 - Gravity Issue
 - F3's GSE
   
-## Changelog + Planned Releases
-v1.0.0: New Glenn 7x2, BE4, BE3U, RS2, Cluster
+## Changelog
+### v1.0.0:
+- New Glenn 7x2
+- BE-4
+- BE-4 Cluster
+- BE-3U
+- RS2
+- JE-Spike
 
-v1.1.0: Blue Moon MK1, BE7, GS3
+### v1.0.1:
+- GS2 Bugfixes
+- Added Block 3 engines
 
-v1.2.0: Old Glenn 7x2
+### v1.0.2:
+- RCS Hotfixes
 
-v1.3.0: New Shepard and New Glenn 9x4
+### v1.0.3:
+- Sound fixes
+
+### v1.0.4:
+- RSS/NonRO is now properly supported!
+- Official Craft Files.
+- All in use engines have had their thrust and ISP numbers tweaked (Re-place the engines on your saved craft if you want this to apply!)
+- BE-4 Mass slightly increased.
+- BE-4 Cluster now properly switches ISP
+- BE-3U subtype adjustments to better fit the real life progression of the engine.
+- BE-3U variant for theoretical design spec thrust so people can deliver 45t to Leo if they want.
+- BE-8 name changed to BE-S
+- Sound Updates
+- Yellow flavor text fixed on some descriptions.
+- Proper Realnames configs for RS2.
+- Proper Realnames support for switcher descriptions.
+- (RSS/NonRO) Switcher descriptions updated to match real thrust numbers.
+- (RSS/RO) Configs updated to support the Block 3 engines.
+
+## Plans:
+### v1.1.0: Blue Moon MK1, BE7, GS3
+
+### v1.2.0: Old Glenn 7x2
+
+### v1.3.0: New Shepard and New Glenn 9x4
 
 ## Credits
 
