@@ -1,3 +1,9 @@
+install: 
+  - find: BigBlueRefilled
+    install_to: GameData
+  - find: CraftFiles
+    install_to: Ships
+    as: VAB
 depends:
   - name: ModuleManager
   - name: B9PartSwitch
@@ -16,5 +22,6 @@ recommends:
   - name: FMRS
 suggests:
   - name: StarshipExpansionProject
+  - name: MiddleKingdomAerospace
 supports:
   - name: RealismOverhaul
