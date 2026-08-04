@@ -17,7 +17,7 @@ PART
 {
 	part = BBR.26.Jacana.JS2_4291821938
 	partName = Part
-	persistentId = 1362425913
+	persistentId = 568035615
 	pos = 0.51279366,97.1739655,-0.247053862
 	attPos = 0,0,0
 	attPos0 = 0.51279366,97.1739655,-0.247053862
@@ -1275,7 +1275,7 @@ PART
 {
 	part = BBR.26.Jacana.JS2Mount_4291790808
 	partName = Part
-	persistentId = 3951908765
+	persistentId = 2256705722
 	pos = 0.51279366,85.8054123,-0.247053862
 	attPos = 0,0,0
 	attPos0 = 0,-11.3685532,-1.49011612E-08
@@ -1563,8 +1563,8 @@ PART
 {
 	part = BBR.26.JE.JE3U_4291789708
 	partName = Part
-	persistentId = 428316053
-	pos = 1.55850387,80.4461136,-1.29276478
+	persistentId = 2054113535
+	pos = 1.5585041,80.4461136,-1.29276502
 	attPos = 0,0,0
 	attPos0 = 1.04571044,-5.35929871,1.04570997
 	rot = 0,-1.00000012,0,0
@@ -2031,8 +2031,8 @@ PART
 {
 	part = BBR.26.JE.JE3U_4291787134
 	partName = Part
-	persistentId = 38339478
-	pos = -0.532912374,80.4461136,0.798652768
+	persistentId = 928174187
+	pos = -0.532912612,80.4461136,0.798653007
 	attPos = 0,0,0
 	attPos0 = -1.04570615,-5.35929871,-1.0457058
 	rot = 0,1.1920929E-07,0,1.00000012
@@ -2491,7 +2491,7 @@ PART
 {
 	part = BBR.26.Jacana.Interstage_4291785746
 	partName = Part
-	persistentId = 1082634253
+	persistentId = 4006752860
 	pos = 0.51279366,81.6808701,-0.247053802
 	attPos = 0,0,0
 	attPos0 = -5.21540642E-08,-15.4930954,0
@@ -3220,8 +3220,8 @@ PART
 {
 	part = BBR.26.Jacana.Fin_4291781644
 	partName = Part
-	persistentId = 850261279
-	pos = 0.512793183,80.9271698,-3.81182528
+	persistentId = 685341396
+	pos = 0.512793183,80.9271698,-3.81182623
 	attPos = 0,0,0
 	attPos0 = 3.56476998,-0.753700256,0
 	rot = -0.707106829,0,0.707106829,0
@@ -3538,8 +3538,8 @@ PART
 {
 	part = BBR.26.Jacana.Fin_4291781356
 	partName = Part
-	persistentId = 3924928356
-	pos = -3.05197763,80.9271698,-0.247053385
+	persistentId = 117762496
+	pos = -3.05197859,80.9271698,-0.247053385
 	attPos = 0,0,0
 	attPos0 = 0,-0.753700256,-3.56476974
 	rot = 0,0,1.00000012,0
@@ -3848,8 +3848,8 @@ PART
 {
 	part = BBR.26.Jacana.Fin_4291781290
 	partName = Part
-	persistentId = 4150245747
-	pos = 0.512794137,80.9271698,3.31771755
+	persistentId = 3493153547
+	pos = 0.512794137,80.9271698,3.31771851
 	attPos = 0,0,0
 	attPos0 = -3.56476998,-0.753700256,0
 	rot = 0.707106888,0,0.707106769,0
@@ -4158,8 +4158,8 @@ PART
 {
 	part = BBR.26.Jacana.Fin_4291781224
 	partName = Part
-	persistentId = 1479526674
-	pos = 4.07756042,80.9271698,-0.247054338
+	persistentId = 1967120056
+	pos = 4.07756138,80.9271698,-0.247054338
 	attPos = 0,0,0
 	attPos0 = 0,-0.753700256,3.56476545
 	rot = 1.00000012,0,0,0
@@ -4468,7 +4468,7 @@ PART
 {
 	part = BBR.26.Jacana.JS1_4291781098
 	partName = Part
-	persistentId = 2093332943
+	persistentId = 2600188529
 	pos = 0.51279366,59.4184647,-0.247053802
 	attPos = 0,0,0
 	attPos0 = 0,-22.2624054,0
@@ -4927,7 +4927,7 @@ PART
 {
 	part = BBR.26.Jacana.Aft_4291762188
 	partName = Part
-	persistentId = 1076252484
+	persistentId = 4251489269
 	pos = 0.51279366,36.5043755,-0.247053802
 	attPos = 0,0,0
 	attPos0 = 0,-22.9140892,0
@@ -5407,8 +5407,8 @@ PART
 {
 	part = BBR.26.Jacana.Strake_4291758150
 	partName = Part
-	persistentId = 3322278175
-	pos = 0.512794137,45.0119896,4.22664356
+	persistentId = 249302954
+	pos = 0.512794137,45.0119896,4.22664452
 	attPos = 0,0,0
 	attPos0 = -4.47369623,-14.4064751,0
 	rot = 0,-0.707106829,0,-0.707106829
@@ -5618,8 +5618,8 @@ PART
 {
 	part = BBR.26.Jacana.Strake_4291757826
 	partName = Part
-	persistentId = 3671469135
-	pos = 0.512793183,45.0119934,-4.72075462
+	persistentId = 2412982808
+	pos = 0.512793183,45.0119934,-4.72075558
 	attPos = 0,0,0
 	attPos0 = 4.47369909,-14.4064713,-8.94069672E-08
 	rot = 0,-0.707106769,0,0.707106888
@@ -5829,7 +5829,7 @@ PART
 {
 	part = BBR.26.JE.CLUSTER_4291698868
 	partName = Part
-	persistentId = 3292702418
+	persistentId = 4205160426
 	pos = 0.51279366,28.9114532,-0.247053817
 	attPos = 0,0,0
 	attPos0 = 7.4505806E-09,-7.59292221,0
@@ -6637,7 +6637,7 @@ PART
 {
 	part = BBR.26.Jacana.Fairing_4291811648
 	partName = Part
-	persistentId = 4036235138
+	persistentId = 1756437379
 	pos = 0.512793601,106.010513,-0.247053862
 	attPos = 0,0,0
 	attPos0 = 7.10542736E-15,8.83654785,-5.96046519E-08
