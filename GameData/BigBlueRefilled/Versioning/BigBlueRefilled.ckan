@@ -1,0 +1,27 @@
+install: 
+  - find: BigBlueRefilled
+    install_to: GameData
+  - find: CraftFiles
+    install_to: Ships
+    as: VAB
+depends:
+  - name: ModuleManager
+  - name: B9PartSwitch
+  - name: AnimatedDecouplers
+  - name: Resurfaced
+  - name: KSPCommunityPartModules
+  - name: KSPCommunityFixes
+  - name: CommunityResourcePack
+  - name: Waterfall
+  - name: SimpleAdjustableFairings
+recommends:
+  - name: Trajectories
+  - name: KerbalJointReinforcementContinued
+  - name: FlyByWireSASMode
+  - name: MechJeb2
+  - name: FMRS
+suggests:
+  - name: StarshipExpansionProject
+  - name: MiddleKingdomAerospace
+supports:
+  - name: RealismOverhaul
