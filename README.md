@@ -5,13 +5,10 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 *True Support, Actual Aero, Actual Balancing, Optimization, My Own Engines, Sounds, Textures, RO/SOL/Quarter Scale Support from the Start.* **Everything Improved**, and actually worthy of the time and effort.
 
 # Notes
-- RO configs may be slightly unbalanced, I haven't tested them that extensivly, but gs2 *should* be able to do TLI with a correctish amount of payload.
-
-- Yes, the all of the Original Big Blue has been wiped, no CKAN, No SpaceDock, No Git. I've finally wiped away the pain and suffering it had caused me
 
 - Do not EVER download the repository, you'll be missing the plugin and the mod won't work properly, keep on the releases tab unless you know what you're doing (if you need to ask you do not)
 
-## Roadmap: https://trello.com/b/30Nx85Lb/big-blue-refilled
+## Trello: https://trello.com/b/d6p0h0p9/questins-wardrobe
 
 ## Discord Server: https://discord.gg/JfuYbWAxxB
 
@@ -82,7 +79,7 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 
 Main Models and Textures: Questin
 
-Plumes: Andrew (HELLOWORLDS)
+Plumes (Not Free to Take or Adapt): Andrew
 
 Decal Sheet: Noedel
 
@@ -105,7 +102,7 @@ You may MODIFY assets for your OWN preference; you may not redistribute, Refer t
 
 You may NOT use property of any texture or model in your own project. e.g Copying and pasting exact verticies or models within the MU into your own project.
 
-If you violate any of these said rights, it MAY or MAY NOT resolve in legal action and/or a permanent ban from Flip N' Burn and other supporting mod developers
+If you violate any of these said rights, it MAY or MAY NOT resolve in legal action and/or a permanent ban from QSM and other supporting mod developers
 
 Let all assets that were strictly transferred to Big Big Refilled receive license rights from their respective owners
 
