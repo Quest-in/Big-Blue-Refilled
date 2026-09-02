@@ -69,11 +69,13 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 - (RSS/RO) Configs updated to support the Block 3 engines.
 
 ## Plans:
-### v1.1.0: Blue Moon MK1, BE7, GS3
+### v1.1.0: Texture Update and Some Goodies
+
+### v1.1.5: Whatever Goodies don't make v1.1.0
 
 ### v1.2.0: Old Glenn 7x2
 
-### v1.3.0: New Shepard and New Glenn 9x4
+### v1.3.0: New Shepard
 
 ## Credits
 
