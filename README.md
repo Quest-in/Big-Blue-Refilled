@@ -71,23 +71,23 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 ## Plans:
 ### v1.1.0: Texture Update and Some Goodies
 
-### v1.1.5: Whatever Goodies don't make v1.1.0
+### v1.2.0: New Shepard, Blue Ring, Tanker, Blue Moon MK2 Alpha
 
-### v1.2.0: Old Glenn 7x2
+### v1.3.0: Original Blue Moon MK2, Original 7x2 Design, "Satellite Dispensing System", BO Bionic Space Vehicle, BO Old Commercial Crew Thingy LV
 
-### v1.3.0: New Shepard
+### v1.4.0: LC-36, TE, Re-envisioned Pad (Post May 28th "Incident"), PM2 
 
 ## Credits
 
 Main Models and Textures: Questin
 
-Plumes (Not Free to Take or Adapt): Andrew
+Plumes (Not Free to Take or Adapt): Andrew and some workings from Sanchez
 
 Decal Sheet: Noedel
 
 RO Config-in: Ty
 
-Helping Hands: Kari, Ty, and RAF Protogen, and Sanchez (Sancheese)
+Helping Hands: Kari, Ty, and RAF Protogen, Composer, Recoleto, and Sanchez (Sancheese)
 
 Cluster Module Lent by Kari <3
 
