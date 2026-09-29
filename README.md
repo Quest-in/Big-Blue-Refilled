@@ -68,8 +68,67 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 - (RSS/NonRO) Switcher descriptions updated to match real thrust numbers.
 - (RSS/RO) Configs updated to support the Block 3 engines.
 
+### v1.1.0
+
+New Glenn 7x2
+- Full Texture Revamp
+- Reworked GS2 Prop Level
+- Full Vehicle Masses Refined
+- Added Silver COMET
+- Added White Composite
+- Added Black Composite
+- GS2 Collider fixes
+
+Engines
+- Updated Engine Configs Further
+- Carbon-Phenolic Composite Nozzle switches on BE-3U and BE-4
+- Plumes Refined + BE-3U Updated to a more stockalike style
+- BE-7
+- Mass Refined
+- Added AO Mapping to all Engines
+
+New Glenn 9x4
+- First Addition
+- 9x4 Landing Legs
+- GS3 "Icaurus"
+- New Cluster for 9x4
+- Added Silver COMET
+- Added White Composite
+- Added Black Composite
+
+RS2
+- Full Texture Revamp
+- Added an RCS switch
+- Added a Monoproellant Subtank Switch
+
+Blue Moon Mk1
+- First Addition
+- Includes SystemHeat Radiator 
+
+Decals
+- Added Conformal Decals as a soft dependency
+- Added Decals for 9x4, Booster Names, Logos, Fairing Decals, etc
+
+Patches
+- Refinements to RSS/Non RO
+- Refinements to RO
+- Real Names fixes + additions for all new parts
+- Added VABO Compatibility across the board
+- Added SystemHeat Compatibility across the board
+- Added CryoTanks Compatibility across the board
+- Added "Silly Names" patch (Located in Extras)
+- Added BetterRCS "skipper" patch for all BBR parts with RCS
+- Added Firefly "skipper" patch for visual sake
+- Added Propellant Subcooling Switches to 7x2 GS1 and GS2
+- Added B9PartSwitch fuel switches to GS1 and GS2 across 7x2 & 9x4
+
+Notes
+- GS3 and Blue Moon Mk1 have their RCS disabled on default, you will need to activate them in the PAW (right click) menu
+- We are aware of the unfortunate massive increase in file size. This will slowly be resolved over time. Sorry for the incovence.
+- Removed Evil Larry
+
+
 ## Plans:
-### v1.1.0: Texture Update and Some Goodies
 
 ### v1.2.0: New Shepard, Blue Ring, Tanker, Blue Moon MK2 Alpha
 
