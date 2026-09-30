@@ -12,8 +12,6 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 
 ## Discord Server: https://discord.gg/JfuYbWAxxB
 
-## Better RCS is incompatible for the time being
-
 ## Dependancies
 - Module Manager
 - B9PartSwitch
@@ -32,6 +30,7 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 - SEP (Home of the Cluster Module and from the person we love Kari <3)
 - Gravity Issue
 - F3's GSE
+- Conformal Decals
   
 ## Changelog
 ### v1.0.0:
