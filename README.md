@@ -7,6 +7,8 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 # Notes
 
 - Do not EVER download the repository, you'll be missing the plugin and the mod won't work properly, keep on the releases tab unless you know what you're doing (if you need to ask you do not)
+- RS2 does not have a specific interstage, it is specific to whatever vehicle your using, its designed in game to be slap on.
+- In Stock or 2.7x landing should target about 2k-3k units of Ox after reentry for optimal descent and landing. 
 
 ## Trello: https://trello.com/b/d6p0h0p9/questins-wardrobe
 
