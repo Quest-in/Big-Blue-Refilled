@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 ## If you are experiencing crashes, there are a few possible reasons I will quickly go over
 
-1. DDS Texture Converter is for some reason killing everything, this is an issue that **affected me DURING DEV** and is likely still an issue. I think this may just be down to how many dds files there are, which I understand is absurd, but turn it off does remedy the load crashing. (In KSPCommunityFixes, go to PluginData, go to PNGTextureCache, and change textureCacheEnabled = blank to false. And delete a cache folder if present, this may change your load time slightly, but trust me on this stability improves if THIS is the reason your game is dying)
+1. DDS Texture Converter is for some reason killing everything, this is an issue that **affected me DURING DEV** and is likely still an issue. I think this may just be down to how many dds files there are, which I understand is absurd, but turning it off does remedy the load crashing. (In KSPCommunityFixes, go to PluginData, go to PNGTextureCache, and change textureCacheEnabled = blank to false. And delete a cache folder if present, this may change your load time slightly, but trust me on this stability improves if THIS is the reason your game is dying)
 
 2. Having 1000000 Mods, with several that are out of date or no longer supported 100% will cause issues that aren't BBR's fault. If your game is already unstable, or is nearing that point, and BBR just happens to be what pushes it over the edge, that's not really it's fault. Please check your mod list before fully blaming BBR for the crashes, please for the love of god prune your mod lists from time to time, 400 mods isn't exactly stable 😭
 
