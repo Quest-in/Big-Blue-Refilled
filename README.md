@@ -8,8 +8,27 @@ A full revamp of the old Glenn, updated to fit my modern standards and the lesso
 
 - Do not EVER download the repository, you'll be missing the plugin and the mod won't work properly, keep on the releases tab unless you know what you're doing (if you need to ask you do not)
 - RS2 does not have a specific interstage, it is specific to whatever vehicle your using, its designed in game to be slap on.
-- In Stock or 2.7x landing should target about 2k-3k units of Ox after reentry for optimal descent and landing. 
+- In Stock or 2.7x landing should target about 2k-3k units of Ox after reentry for optimal descent and landing.
 
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# IF YOUR GAME CRASHES PLEASE READ
+
+## If you are experiencing crashes, there are a few possible reasons I will quickly go over
+
+1. DDS Texture Converter is for some reason killing everything, this is an issue that **affected me DURING DEV** and is likely still an issue. I think this may just be down to how many dds files there are, which I understand is absurd, but turn it off does remedy the load crashing. (In KSPCommunityFixes, go to PluginData, go to PNGTextureCache, and change textureCacheEnabled = blank to false. And delete a cache folder if present, this may change your load time slightly, but trust me on this stability improves if THIS is the reason your game is dying)
+
+2. Having 1000000 Mods, with several that are out of date or no longer supported 100% will cause issues that aren't BBR's fault. If your game is already unstable, or is nearing that point, and BBR just happens to be what pushes it over the edge, that's not really it's fault. Please check your mod list before fully blaming BBR for the crashes, please for the love of god prune your mod lists from time to time, 400 mods isn't exactly stable 😭
+
+3. Missing Dependencies, likely wont cause crashes outright, but it can be a part of it.
+
+4. NVIDIA GPU users, in a fairly recent driver update, NVIDIA turned off your shader cache. Look up how to on Google, its very simple to check in Nivida Control Panel. But this shit has 100% been causing crashes.
+
+5. If all else fails, ***REPORT THE ISSUE***, do not complain about crashes and just *not say anything* literally nothing can be done if I don't get logs or reports.
+
+### Alright End of PSA
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Trello: https://trello.com/b/d6p0h0p9/questins-wardrobe
 
 ## Discord Server: https://discord.gg/JfuYbWAxxB
