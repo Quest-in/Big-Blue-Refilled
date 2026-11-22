@@ -43,6 +43,7 @@ ________________________________________________________________________________
 - CommunityResourcePack
 - Waterfall
 - Simple Adjustable Fairings
+- Depthmask
 
 ## Recommended Mods
 - Trajectories
